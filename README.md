@@ -1,2 +1,2 @@
 # DesignPatterns
-基于Kotlinc预言的设计模式
+基于Kotlinc语言的设计模式
